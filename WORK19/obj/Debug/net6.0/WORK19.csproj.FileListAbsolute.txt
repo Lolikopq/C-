@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\C#\WORK19\bin\Debug\net6.0\WORK19.exe
+C:\Users\Алексей\Desktop\C#\WORK19\bin\Debug\net6.0\WORK19.deps.json
+C:\Users\Алексей\Desktop\C#\WORK19\bin\Debug\net6.0\WORK19.runtimeconfig.json
+C:\Users\Алексей\Desktop\C#\WORK19\bin\Debug\net6.0\WORK19.dll
+C:\Users\Алексей\Desktop\C#\WORK19\bin\Debug\net6.0\WORK19.pdb
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.dll
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\refint\WORK19.dll
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.pdb
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\WORK19.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\C#\WORK19\obj\Debug\net6.0\ref\WORK19.dll
